@@ -8,7 +8,5 @@ public class App {
         String info = "Some strange useless changes I should add";
         String info2 = "Some strange useless changes I should add";
         String info3 = "Some strange useless changes I should add";
-        String info4 = "Some strange useless changes I should add";
-        System.out.println(info);
     }
 }
