@@ -5,7 +5,7 @@ package learning;
  */
 public class App {
     public static void main(String[] args) {
-        String info = "Some changes I should add";
+        String info = "Some strange useless changes I should add";
         System.out.println(info);
     }
 }
